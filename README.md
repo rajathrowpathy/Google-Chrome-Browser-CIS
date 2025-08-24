@@ -44,3 +44,8 @@ Step 6: Review and Create
 On the Review + create page, double-check all the settings you have configured.
 
 When you are confident everything is correct, click Create to save and deploy the profile.
+
+Important Considerations
+Use Caution: Always test new configurations on a small, controlled group of devices before deploying to a larger audience or a production environment.
+
+Modify for Your Organization: Remember to modify the settings in your JSON file to align with your organization's specific security policies, operational requirements, and user needs. The examples provided are for illustrative purposes only.
